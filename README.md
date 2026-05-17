@@ -28,19 +28,6 @@ The project includes Exploratory Data Analysis (EDA), data visualization, model 
 
 ## Dataset Information
 The project uses the Wine dataset from Scikit-learn.
-
-Dataset features include:
-- Alcohol
-- Malic Acid
-- Ash
-- Alcalinity of Ash
-- Magnesium
-- Flavanoids
-- Color Intensity
-- Hue
-- Proline
-- Target Class
-
 ---
 
 ## Exploratory Data Analysis
